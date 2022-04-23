@@ -1,0 +1,23 @@
+[
+    {
+        "videoLink": "https://youtu.be/c2VCZaGetig",
+        "uploadDate": "2021-04-09",
+        "songs": [
+            {
+                "title": "Maniac",
+                "artist": "Conan Gray",
+                "timestamp": 32
+            },
+            {
+                "title": "Hollywood's Bleeding",
+                "artist": "Post Malone",
+                "timestamp": 147
+            },
+            {
+                "title": "Best Part",
+                "artist": "Daniel Caesar",
+                "timestamp": 393
+            }
+        ]
+    }
+]

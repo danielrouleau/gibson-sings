@@ -1,6 +1,6 @@
 [
     {
-        "videoLink": "https://youtu.be/6KE9F7VbGNY",
+        "id": "6KE9F7VbGNY",
         "uploadDate": "2022-05-13",
         "songs": [
             {
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/c2VCZaGetig",
+        "id": "c2VCZaGetig",
         "uploadDate": "2021-04-09",
         "songs": [
             {
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/DeHbpUA2Pwc",
+        "id": "DeHbpUA2Pwc",
         "uploadDate": "2021-10-22",
         "songs": [
             {
@@ -73,7 +73,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/c2VCZaGetig",
+        "id": "c2VCZaGetig",
         "uploadDate": "2022-04-09",
         "songs": [
             {
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/ySPG5upR-4o",
+        "id": "ySPG5upR-4o",
         "uploadDate": "2021-12-17",
         "songs": [
             {
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/kN5oLeGyiag",
+        "id": "kN5oLeGyiag",
         "uploadDate": "2021-11-19",
         "songs": [
             {
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/HNnUtJdzytM",
+        "id": "HNnUtJdzytM",
         "uploadDate": "2017-08-23",
         "songs": [
             {
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/EvDiyu44SIo",
+        "id": "EvDiyu44SIo",
         "uploadDate": "2020-07-31",
         "songs": [
             {
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/GNxPUBGRcMY",
+        "id": "GNxPUBGRcMY",
         "uploadDate": "2020-07-03",
         "songs": [
             {
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/ziTFEFvHLTI",
+        "id": "ziTFEFvHLTI",
         "uploadDate": "2020-06-19",
         "songs": [
             {
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/nbN5zs5fqb0",
+        "id": "nbN5zs5fqb0",
         "uploadDate": "2020-05-15",
         "songs": [
             {
@@ -381,7 +381,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/RlImusACRrk",
+        "id": "RlImusACRrk",
         "uploadDate": "2020-05-01",
         "songs": [
             {
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/1SL-0klti0M",
+        "id": "1SL-0klti0M",
         "uploadDate": "2020-04-17",
         "songs": [
             {
@@ -463,7 +463,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/v6i08_DYIMg",
+        "id": "v6i08_DYIMg",
         "uploadDate": "2020-03-19",
         "songs": [
             {
@@ -494,7 +494,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/MGPN4RfMqJU",
+        "id": "MGPN4RfMqJU",
         "uploadDate": "2020-03-13",
         "songs": [
             {
@@ -530,7 +530,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/QIy7beZHn1o",
+        "id": "QIy7beZHn1o",
         "uploadDate": "2020-03-08",
         "songs": [
             {
@@ -566,7 +566,7 @@
         ]
     },
     {
-        "videoLink": "https://youtu.be/A5MYIIRWAVM",
+        "id": "A5MYIIRWAVM",
         "uploadDate": "2020-01-10",
         "songs": [
             {

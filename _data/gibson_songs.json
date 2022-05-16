@@ -180,27 +180,27 @@
         "uploadDate": "2017-08-23",
         "songs": [
             {
-                "title": "1:38: \"I Feel It Coming\"",
+                "title": "I Feel It Coming",
                 "artist": "The Weeknd",
                 "timestamp": 26
             },
             {
-                "title": "2:53 : \"Big Jet Plane\"",
+                "title": "Big Jet Plane",
                 "artist": "Angus and Julia Stone",
                 "timestamp": 116
             },
             {
-                "title": "4:23 : \"Wagon Wheel\"",
+                "title": "Wagon Wheel",
                 "artist": "Old Crow Medicine Show",
                 "timestamp": 200
             },
             {
-                "title": "6:30 : \"Breezeblocks\"",
-                "artist": "Alt",
+                "title": "Breezeblocks",
+                "artist": "Alt-J",
                 "timestamp": 335
             },
             {
-                "title": "8:45 : \"Creep\"",
+                "title": "Creep",
                 "artist": "Radiohead",
                 "timestamp": 429
             }

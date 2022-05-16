@@ -1,5 +1,41 @@
 [
     {
+        "videoLink": "https://youtu.be/6KE9F7VbGNY",
+        "uploadDate": "2022-05-13",
+        "songs": [
+            {
+                "title": "Beauty in the Breakdown",
+                "artist": "The Scene Aesthetic",
+                "timestamp": 43
+            },
+            {
+                "title": "Breakeven",
+                "artist": "The Script",
+                "timestamp": 251
+            },
+            {
+                "title": "I Miss Having Sex But at Least I Don't Wanna Die Anymore",
+                "artist": "Waterparks",
+                "timestamp": 438
+            },
+            {
+                "title": "Feeling Whitney",
+                "artist": "Post Malone",
+                "timestamp": 620
+            },
+            {
+                "title": "Complicated",
+                "artist": "Avril Lavigne",
+                "timestamp": 791
+            },
+            {
+                "title": "Ashley",
+                "artist": "Escape the Fate",
+                "timestamp": 883
+            }
+        ]
+    },
+    {
         "videoLink": "https://youtu.be/c2VCZaGetig",
         "uploadDate": "2021-04-09",
         "songs": [
@@ -17,6 +53,596 @@
                 "title": "Best Part",
                 "artist": "Daniel Caesar",
                 "timestamp": 393
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/DeHbpUA2Pwc",
+        "uploadDate": "2021-10-22",
+        "songs": [
+            {
+                "title": "The Judge",
+                "artist": "Twenty One Pilots",
+                "timestamp": 631
+            },
+            {
+                "title": "Fireflies",
+                "artist": "Owl City 14:45",
+                "timestamp": 826
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/c2VCZaGetig",
+        "uploadDate": "2022-04-09",
+        "songs": [
+            {
+                "title": "Maniac",
+                "artist": "Conan Gray",
+                "timestamp": 32
+            },
+            {
+                "title": "Hollywood's Bleeding",
+                "artist": "Post Malone",
+                "timestamp": 147
+            },
+            {
+                "title": "Best Part",
+                "artist": "Daniel Caesar",
+                "timestamp": 393
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/ySPG5upR-4o",
+        "uploadDate": "2021-12-17",
+        "songs": [
+            {
+                "title": "Argyle",
+                "artist": "Brakence",
+                "timestamp": 102
+            },
+            {
+                "title": "Sunkissed",
+                "artist": "Khai Dreams",
+                "timestamp": 226
+            },
+            {
+                "title": "Stupid Deep",
+                "artist": "Jon Bellion",
+                "timestamp": 321
+            },
+            {
+                "title": "We Fell In Love In October",
+                "artist": "Girl in Red",
+                "timestamp": 408
+            },
+            {
+                "title": "No Blueberries",
+                "artist": "Dpr Ian",
+                "timestamp": 582
+            },
+            {
+                "title": "Nothing",
+                "artist": "Bruno Major",
+                "timestamp": 681
+            },
+            {
+                "title": "Chest Piece",
+                "artist": "Rome Hero Foxes",
+                "timestamp": 764
+            },
+            {
+                "title": "The Ballad of Mona Lisa",
+                "artist": "Panic! at the Disco",
+                "timestamp": 857
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/kN5oLeGyiag",
+        "uploadDate": "2021-11-19",
+        "songs": [
+            {
+                "title": "Snowflake",
+                "artist": "powfu",
+                "timestamp": 34
+            },
+            {
+                "title": "ADHD",
+                "artist": "Joyner Lucas",
+                "timestamp": 208
+            },
+            {
+                "title": "Heaven",
+                "artist": "Bryan Adams",
+                "timestamp": 330
+            },
+            {
+                "title": "Sarcasm",
+                "artist": "Get Scared",
+                "timestamp": 460
+            },
+            {
+                "title": "The Kill",
+                "artist": "Thirty Seconds to Mars",
+                "timestamp": 641
+            },
+            {
+                "title": "Can You Feel The Love Tonight",
+                "artist": "Elton John",
+                "timestamp": 805
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/HNnUtJdzytM",
+        "uploadDate": "2017-08-23",
+        "songs": [
+            {
+                "title": "1:38: \"I Feel It Coming\"",
+                "artist": "The Weeknd",
+                "timestamp": 26
+            },
+            {
+                "title": "2:53 : \"Big Jet Plane\"",
+                "artist": "Angus and Julia Stone",
+                "timestamp": 116
+            },
+            {
+                "title": "4:23 : \"Wagon Wheel\"",
+                "artist": "Old Crow Medicine Show",
+                "timestamp": 200
+            },
+            {
+                "title": "6:30 : \"Breezeblocks\"",
+                "artist": "Alt",
+                "timestamp": 335
+            },
+            {
+                "title": "8:45 : \"Creep\"",
+                "artist": "Radiohead",
+                "timestamp": 429
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/EvDiyu44SIo",
+        "uploadDate": "2020-07-31",
+        "songs": [
+            {
+                "title": "Fall For You",
+                "artist": "Secondhand Serenade",
+                "timestamp": 32
+            },
+            {
+                "title": "Creep",
+                "artist": "Radiohead",
+                "timestamp": 119
+            },
+            {
+                "title": "My Shiny Teeth and Me",
+                "artist": "Chip Skylark",
+                "timestamp": 216
+            },
+            {
+                "title": "Sunday Morning",
+                "artist": "Maroon 5",
+                "timestamp": 304
+            },
+            {
+                "title": "I'm Not Okay",
+                "artist": "My Chemical Romance",
+                "timestamp": 380
+            },
+            {
+                "title": "Welcome to the Black Parade",
+                "artist": "My Chemical Romance",
+                "timestamp": 460
+            },
+            {
+                "title": "we are Never Getting Back Together",
+                "artist": "Taylor Swift",
+                "timestamp": 555
+            },
+            {
+                "title": "Beauty in teh Breakdown",
+                "artist": "The scene aesthetic",
+                "timestamp": 655
+            },
+            {
+                "title": "If it means a lot to you",
+                "artist": "a day to remember",
+                "timestamp": 760
+            },
+            {
+                "title": "Fly Me to the Moon",
+                "artist": "Frank Sinatra",
+                "timestamp": 866
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/GNxPUBGRcMY",
+        "uploadDate": "2020-07-03",
+        "songs": [
+            {
+                "title": "Believe",
+                "artist": "Cher (skipped)",
+                "timestamp": 94
+            },
+            {
+                "title": "Believe",
+                "artist": "Cher (also skipped)",
+                "timestamp": 149
+            },
+            {
+                "title": "Stay",
+                "artist": "Safetysuit",
+                "timestamp": 244
+            },
+            {
+                "title": "How to Save a Life",
+                "artist": "The Fray",
+                "timestamp": 408
+            },
+            {
+                "title": "Mr. Brightside",
+                "artist": "The Killers",
+                "timestamp": 480
+            },
+            {
+                "title": "Lucid Dreams",
+                "artist": "Juice Wrld",
+                "timestamp": 628
+            },
+            {
+                "title": "Boston",
+                "artist": "Augustana",
+                "timestamp": 701
+            },
+            {
+                "title": "I'm used to it",
+                "artist": "powfu",
+                "timestamp": 810
+            },
+            {
+                "title": "Green Tea",
+                "artist": "GBSN (outro)",
+                "timestamp": 903
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/ziTFEFvHLTI",
+        "uploadDate": "2020-06-19",
+        "songs": [
+            {
+                "title": "Welcome to Wonderland",
+                "artist": "Anson Seabra",
+                "timestamp": 43
+            },
+            {
+                "title": "Robbery",
+                "artist": "Juice Wrld",
+                "timestamp": 240
+            },
+            {
+                "title": "But it's better if you do",
+                "artist": "Panic! at the Disco",
+                "timestamp": 330
+            },
+            {
+                "title": "Sad!",
+                "artist": "xxxtentacion",
+                "timestamp": 490
+            },
+            {
+                "title": "Robbery",
+                "artist": "Juice Wrld",
+                "timestamp": 546
+            },
+            {
+                "title": "Basket case",
+                "artist": "Green day",
+                "timestamp": 706
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/nbN5zs5fqb0",
+        "uploadDate": "2020-05-15",
+        "songs": [
+            {
+                "title": "In Case You Didn't Know",
+                "artist": "Brett Young",
+                "timestamp": 87
+            },
+            {
+                "title": "Torn",
+                "artist": "Natalie Imbruglia",
+                "timestamp": 282
+            },
+            {
+                "title": "In Bloom",
+                "artist": "Neck Deep",
+                "timestamp": 372
+            },
+            {
+                "title": "Billie Jean",
+                "artist": "Michael Jackson",
+                "timestamp": 457
+            },
+            {
+                "title": "Blueberry Faygo",
+                "artist": "Lil Mosey",
+                "timestamp": 565
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/RlImusACRrk",
+        "uploadDate": "2020-05-01",
+        "songs": [
+            {
+                "title": "Daylily",
+                "artist": "Movements",
+                "timestamp": 71
+            },
+            {
+                "title": "CheaterCheaterBestFriendEater",
+                "artist": "Never Shout Never",
+                "timestamp": 290
+            },
+            {
+                "title": "Falling Down",
+                "artist": "LIl Peep, xxxtentacion",
+                "timestamp": 486
+            },
+            {
+                "title": "So Into You",
+                "artist": "Tamia",
+                "timestamp": 588
+            },
+            {
+                "title": "Skyway Avenue",
+                "artist": "We The Kings",
+                "timestamp": 636
+            },
+            {
+                "title": "Fall For You",
+                "artist": "Secondhand Serenade",
+                "timestamp": 721
+            },
+            {
+                "title": "Around the World and Back",
+                "artist": "State Champs",
+                "timestamp": 833
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/1SL-0klti0M",
+        "uploadDate": "2020-04-17",
+        "songs": [
+            {
+                "title": "Life Underground",
+                "artist": "The Amity Affliction",
+                "timestamp": 82
+            },
+            {
+                "title": "Start A Riot",
+                "artist": "Banners",
+                "timestamp": 174
+            },
+            {
+                "title": "Found A Way",
+                "artist": "Drake Bell",
+                "timestamp": 245
+            },
+            {
+                "title": "Can't Be Saved",
+                "artist": "Senses Fail",
+                "timestamp": 308
+            },
+            {
+                "title": "Fine, Great",
+                "artist": "Modern Baseball",
+                "timestamp": 395
+            },
+            {
+                "title": "The Judge",
+                "artist": "Twenty One Pilots",
+                "timestamp": 557
+            },
+            {
+                "title": "Check Yes Juliet",
+                "artist": "We The Kings",
+                "timestamp": 634
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/v6i08_DYIMg",
+        "uploadDate": "2020-03-19",
+        "songs": [
+            {
+                "title": "Autotune Explanation",
+                "artist": "Fireflies",
+                "timestamp": 0
+            },
+            {
+                "title": "When It Rains It Pours",
+                "artist": "Luke Combs",
+                "timestamp": 170
+            },
+            {
+                "title": "Laying On My Porch While We Watch the World End",
+                "artist": "powfu",
+                "timestamp": 287
+            },
+            {
+                "title": "Crazy",
+                "artist": "Gnarls Barkley",
+                "timestamp": 400
+            },
+            {
+                "title": "Bohemian Rhapsody",
+                "artist": "Queen",
+                "timestamp": 556
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/MGPN4RfMqJU",
+        "uploadDate": "2020-03-13",
+        "songs": [
+            {
+                "title": "Jocelyn Flores",
+                "artist": "xxxtentacion",
+                "timestamp": 43
+            },
+            {
+                "title": "Lost in Japan",
+                "artist": "Shawn Mendes",
+                "timestamp": 140
+            },
+            {
+                "title": "Robbery",
+                "artist": "Juice World",
+                "timestamp": 326
+            },
+            {
+                "title": "Blinding Lights",
+                "artist": "The Weeknd",
+                "timestamp": 455
+            },
+            {
+                "title": "Breezeblocks",
+                "artist": "Alt",
+                "timestamp": 515
+            },
+            {
+                "title": "Sports",
+                "artist": "Beach Bunny",
+                "timestamp": 655
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/QIy7beZHn1o",
+        "uploadDate": "2020-03-08",
+        "songs": [
+            {
+                "title": "Death Bed",
+                "artist": "powfu",
+                "timestamp": 82
+            },
+            {
+                "title": "Have You Ever Seen The Rain",
+                "artist": "Creedence Clearwater Revival",
+                "timestamp": 271
+            },
+            {
+                "title": "Goodbyes",
+                "artist": "Post Malone",
+                "timestamp": 363
+            },
+            {
+                "title": "No Scrubs",
+                "artist": "TLC",
+                "timestamp": 424
+            },
+            {
+                "title": "Basket Case",
+                "artist": "Green Day",
+                "timestamp": 468
+            },
+            {
+                "title": "Build Me Up Buttercup",
+                "artist": "The Foundations",
+                "timestamp": 631
+            }
+        ]
+    },
+    {
+        "videoLink": "https://youtu.be/A5MYIIRWAVM",
+        "uploadDate": "2020-01-10",
+        "songs": [
+            {
+                "title": "Sarcasm",
+                "artist": "Get Scared",
+                "timestamp": 31
+            },
+            {
+                "title": "Pecan",
+                "artist": "GBSN",
+                "timestamp": 121
+            },
+            {
+                "title": "Lucky People",
+                "artist": "Waterparks",
+                "timestamp": 231
+            },
+            {
+                "title": "Easy to Hate",
+                "artist": "Waterparks",
+                "timestamp": 342
+            },
+            {
+                "title": "I Think You're Really Cool",
+                "artist": "Guardin",
+                "timestamp": 485
+            },
+            {
+                "title": "Stay Away From My Friends",
+                "artist": "Pierce The Veil",
+                "timestamp": 580
+            },
+            {
+                "title": "Clairvoyant",
+                "artist": "The Story So Far",
+                "timestamp": 786
+            },
+            {
+                "title": "Here For Nothing",
+                "artist": "With Confidence",
+                "timestamp": 902
+            },
+            {
+                "title": "MakeDamnSure",
+                "artist": "Taking Back Sunday",
+                "timestamp": 1044
+            },
+            {
+                "title": "One Little Lie",
+                "artist": "Simple Creatures",
+                "timestamp": 1194
+            },
+            {
+                "title": "Dear Maria Count Me In",
+                "artist": "All Time Low",
+                "timestamp": 1273
+            },
+            {
+                "title": "Dakota",
+                "artist": "A Rocket To The Moon",
+                "timestamp": 1366
+            },
+            {
+                "title": "You're Dead Wrong",
+                "artist": "Mayday Parade",
+                "timestamp": 1466
+            },
+            {
+                "title": "Puppy Love",
+                "artist": "This Wild Life",
+                "timestamp": 1614
+            },
+            {
+                "title": "If I'm James Dean, You're Audrey Hepburn",
+                "artist": "Sleeping With Sirens",
+                "timestamp": 1728
             }
         ]
     }

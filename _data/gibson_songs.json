@@ -1,5 +1,41 @@
 [
     {
+        "id": "e9uANTgNSoQ",
+        "uploadDate": "2022-07-22",
+        "songs": [
+            {
+                "title": "Lemon Tree",
+                "artist": "Post Malone",
+                "timestamp": 47
+            },
+            {
+                "title": "Iris",
+                "artist": "The Goo Goo Dolls",
+                "timestamp": 160
+            },
+            {
+                "title": "Little Light",
+                "artist": "Lewis Watson",
+                "timestamp": 329
+            },
+            {
+                "title": "S.O.S",
+                "artist": "Jonas Brothers",
+                "timestamp": 438
+            },
+            {
+                "title": "No Scrubs",
+                "artist": "TLC",
+                "timestamp": 553
+            },
+            {
+                "title": "Youth",
+                "artist": "Daughter",
+                "timestamp": 649
+            }
+        ]
+    },
+    {
         "id": "6KE9F7VbGNY",
         "uploadDate": "2022-05-13",
         "songs": [
@@ -36,19 +72,71 @@
         ]
     },
     {
-        "id": "DeHbpUA2Pwc",
-        "uploadDate": "2021-10-22",
-        "songs": [
+        "id" : "P3JeRt0mTgE",
+        "uploadDate" : "2021-04-25",
+        "songs" : [
             {
-                "title": "The Judge",
-                "artist": "Twenty One Pilots",
-                "timestamp": 631
+                "title" : "The Judge",
+                "artist" : "Twenty One Pilots",
+                "timestamp" : 63
             },
             {
-                "title": "Fireflies",
-                "artist": "Owl City 14:45",
-                "timestamp": 826
+                "title" : "House of Gold",
+                "artist" : "Twenty One Pilots",
+                "timestamp" : 421
+            },
+            {
+                "title" : "Teenage Dirtbag",
+                "artist" : "Wheatus",
+                "timestamp" : 637
+            },
+            {
+                "title" : "Avril Lavigne",
+                "artist" : "Complicated",
+                "timestamp" : 940
             }
+        ]
+    },
+    {
+        "id" : "UZ6OFQTlk8k",
+        "uploadDate" : "2021-04-23",
+        "songs" :[
+            {
+                "title" : "The Middle",
+                "artist" : "Jimmy Eat World",
+                "timestamp" : 70
+            },
+            {
+                "title" : "Imaginarium",
+                "artist" : "GBSN",
+                "timestamp" : 141
+            },
+            {
+                "title" : "Robbery",
+                "artist" : "Juice Wrld",
+                "timestamp" : 253
+            },
+            {
+                "title" : "I Think You're Really Cool",
+                "artist" : "guardin",
+                "timestamp" : 350
+            },
+            {
+                "title" : "Pokemon Theme",
+                "artist" : "Jason Paige",
+                "timestamp" : 473
+            },
+            {
+                "title" : "Complicated (skipped)",
+                "artist" : "Avril Lavigne",
+                "timestamp" : 642
+            },
+            {
+                "title" : "Sad!",
+                "artist" : "xxxtentacion",
+                "timestamp" : 751
+            }
+
         ]
     },
     {
@@ -154,6 +242,73 @@
             }
         ]
     },
+    {
+        "id": "DeHbpUA2Pwc",
+        "uploadDate": "2021-10-22",
+        "songs": [
+            {
+                "title": "The Judge",
+                "artist": "Twenty One Pilots",
+                "timestamp": 631
+            },
+            {
+                "title": "Fireflies",
+                "artist": "Owl City",
+                "timestamp": 826
+            }
+        ]
+    },
+    {
+        "id" : "sHx_o5FefQw",
+        "uploadDate" : "2021-10-08",
+        "songs": [
+            {
+                "title" : "All Eyes On Me",
+                "artist" : "Bo Burnham",
+                "timestamp" : 10
+            },
+            {
+                "title" : "I Miss You",
+                "artist" : "Blink 182",
+                "timestamp" : 122
+            },
+            {
+                "title" : "If You Want Love",
+                "artist" : "NF",
+                "timestamp" : 250
+            },
+            {
+                "title" : "Happy Than Ever",
+                "artist" : "Billie Eilish",
+                "timestamp" : 355
+            },
+            {
+                "title" : "King For A Day",
+                "artist" : "Pierce The Veil",
+                "timestamp" : 485
+            },
+            {
+                "title" : "Stay",
+                "artist" : "The Kid Laroi ft. Justin Bieber",
+                "timestamp" : 586
+            },
+            {
+                "title" : "Take On Me",
+                "artist" : "A-ha",
+                "timestamp" : 657
+            },
+            {
+                "title" : "Bad Habits",
+                "artist" : "Ed Sheeran",
+                "timestamp" : 766
+            },
+            {
+                "title" : "That Funny Feeling",
+                "artist" : "Bo Burnham",
+                "timestamp" : 839
+            }
+        ]
+    },  
     {
         "id": "HNnUtJdzytM",
         "uploadDate": "2017-08-23",

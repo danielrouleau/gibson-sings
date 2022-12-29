@@ -4,8 +4,9 @@ layout: default
 
 # Subscribe!
 
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channel="GoreGibsonGaming" data-layout="full" data-theme="dark" data-count="hidden"></div>
+[![Twitch Status](https://img.shields.io/twitch/status/gibson?logo=twitch&logoColor=white&labelColor=4100A1&style=for-the-badge)](https://www.twitch.tv/gibson)
+
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAg-RbQnYCGBY6zsjxL7xTQ?logo=youtube&label=Youtube&style=for-the-badge)](https://www.youtube.com/goregibsongaming)
 
 <hr>
 
